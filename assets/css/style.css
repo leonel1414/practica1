@@ -1,0 +1,39 @@
+body{
+    background-color: #245953;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+    color:rgb(216, 216, 216);
+}
+
+p,h1{
+    padding: 15px;
+    font-family: cursive;
+
+}
+ul{
+    margin-bottom: 20px;
+}
+
+table{
+    border-collapse: collapse;
+    width: 30%;
+    margin-bottom: 20px;
+    margin-left: 35%;
+}
+
+th,td{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th{
+    background-color: rgb(64, 142, 145);
+}
+
+.miClase{
+    color: rgb(228, 147, 147);
+}
+
+.titulo{
+    text-align: center;
+}
